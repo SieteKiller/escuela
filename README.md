@@ -1,2 +1,2 @@
-# escuela
-Escuela
+# Prueba de Ingreso
+Prueba de Ingreso
